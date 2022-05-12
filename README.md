@@ -91,7 +91,7 @@ void loop(){
 
 
 ### RESULTS
-Thus, we have interfaced an FSR(force sensitive resistor) and scale the output voltage obtained to pressure applied is verified.
+Thus,the distance value  is measured in "CM" using  Ultrasonic sensor.
 
 
 
